@@ -14,6 +14,7 @@ else:
 print(multa)
 
 
+
 #ATÉ 100 - isento
 #ATÉ 120 - 20% da v
 #ATÉ 150 - 20% 120 + 30% da v

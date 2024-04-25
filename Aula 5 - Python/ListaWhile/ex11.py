@@ -10,7 +10,7 @@ while i < num:
         print('é primo')
     
 
-print('-------------')
+print('--------------------')
 
 i = 2
 num = 17
@@ -24,7 +24,7 @@ while i < num/2:
         print('é primo')
 
 
-print('-------------')
+print('--------------------')
 
 i = 2
 num = 17

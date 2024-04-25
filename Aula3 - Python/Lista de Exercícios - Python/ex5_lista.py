@@ -42,6 +42,7 @@ elif b>c:
     aux = b
     b = c
     c = aux
+    
 if a>b:
     aux = b
     b = a
